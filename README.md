@@ -1,4 +1,4 @@
-# Resource-Dump
+# Awesome Articles and Videos
 A personal list of articles I read and find interesting
 
 ## React
