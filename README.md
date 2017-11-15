@@ -8,6 +8,7 @@ A personal list of articles I read and find interesting
 - [Component Folder Pattern](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68)
 - [Video: GraphQL + React + Apollo](https://www.youtube.com/watch?v=kXH2dbnHYA0)
 - [Building Electron Apps with Next](https://leo.im/2017/electron-next)
+- [Recompose: Recomposing your React Application](https://youtu.be/zD_judE-bXk)
 
 ## Angular
 - [ng-store](https://gist.github.com/btroncone/a6e4347326749f938510)
