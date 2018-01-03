@@ -23,6 +23,8 @@ A personal list of articles I read and find interesting
 - [Managing State in Angular](https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f)
 - [Video: MobX vs Redux](https://youtu.be/76FRrbY18Bs)
 - [Video: Practical React with MobX](https://youtu.be/XGwuM_u7UeQ)
+- [Redux State Keys](https://www.robinwieruch.de/redux-state-keys/)
+- [Redux ORM](http://blog.isquaredsoftware.com/2016/10/practical-redux-part-1-redux-orm-basics/)
 
 ## Observables
 - [TakeUntil Unsubscribe](https://medium.com/@benlesh/rxjs-dont-unsubscribe-6753ed4fda87)
